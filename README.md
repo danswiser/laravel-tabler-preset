@@ -34,6 +34,3 @@ A Laravel front-end scaffolding preset for [Tabler](https://tabler.io) - a free 
 ![Dashboard](/screenshots/dashboard.png)
 
 ![Verify](/screenshots/verify.png)
-
-![Pagination](/screenshots/pagination-links.png)
-![Simple Pagination](/screenshots/simple-pagination-links.png)
