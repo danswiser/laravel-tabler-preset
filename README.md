@@ -1,11 +1,11 @@
-# Laravel 7.0+ Frontend preset for Tailwind CSS
+# Laravel 7.0+ Frontend preset for Tabler UI
 
 A Laravel front-end scaffolding preset for [Tabler](https://tabler.io) - a free and open-source HTML Dashboard UI Kit built on Bootstrap.
 
 ## Usage
 
-1. Fresh install Laravel >= 7.0 and `cd` to your app.
-2. Install this preset via `composer require laravel-frontend-presets/tabler`. Laravel will automatically discover this package. No need to register the service provider.
+1. Fresh install [Laravel](https://laravel.com/docs/7.x/installation) 7.x or above.
+2. Install this preset via `composer require danswiser/tabler-preset`. Laravel will automatically discover this package. No need to register the service provider.
 
 ### a. For Presets without Authentication
 
