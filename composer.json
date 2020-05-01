@@ -1,5 +1,5 @@
 {
-  "name": "danswiser/tabler-preset",
+  "name": "danswiser/laravel-tabler-preset",
   "description": "Laravel frontend preset for Tabler UI",
   "keywords": ["laravel", "preset", "tabler"],
   "license": "MIT",
