@@ -5,7 +5,9 @@
   @include('layouts.header')
   @include('layouts.nav')
   <div class="content">
-    @yield('content')
+    <div class="container-xl">
+      @yield('content')
+    </div>
   </div>
 </div>
 @endsection
